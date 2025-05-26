@@ -1,7 +1,6 @@
 # All About Drugs (For Teens)
 
-#### Video Demo: [<URL HERE>
-](https://www.loom.com/share/62676957912d481eb8df81e575e068a0)
+#### Video Demo: (https://www.loom.com/share/62676957912d481eb8df81e575e068a0)
 #### Description:
 
 **All About Drugs (For Teens)** is an educational website created to inform  teenagers about the risks and long-term effects of drug abuse. This project was created as part of Harvard’s CS50 course and uses coding languages such as HTML, CSS, and JavaScript to deliver well-structured, easy-to-understand content for a young audience.
